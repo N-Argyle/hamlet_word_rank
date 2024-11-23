@@ -1,4 +1,4 @@
-This is script to rank words in Hamlet by usage, excluding many common stop words and play directives.
+This is a script which ranks words in Hamlet by usage, excluding many common stop words and play directives.
 
 ### Results
 ```
