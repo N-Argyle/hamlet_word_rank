@@ -8,7 +8,7 @@ const stopWords = new Set([
     'or', 'an', 'will', 'my', 'one', 'all', 'would', 'there', 'their', 'what',
     'so', 'up', 'out', 'if', 'about', 'who', 'get', 'which', 'go', 'me',
     'is', 'am', 'are', 'was', 'were', 'been', 'thy', 'thee', 'thou', 'did',
-    'hath', 'shall', 'more', 'most', 'must', 'yet', 'now', "no", "him", "his", "our",
+    'hath', 'shall', 'more', 'most', 'must', 'yet', 'now', "no", "him", "his", "our", "laer", "give", "upon",
     "thou", "thy", "thee", "thine", "your", "yours", "ourself", "yourself", "himself", "herself", "itself", "ourselves", "yourselves", "themselves", "such", "what", "such", "suchlike", "suchness", "wherefore", "wherein", "whereto", "wherewith", "wherewithal", "whence", "whereof", "wherewith", "wherewithal", "whereinto", "whereunto", "whereover", "wherethrough", "whereupon", "wherever", "wheresoever", "wherefor", "whereforward", "whereforeward", "whereforeover", "whereforeth", "whereforethrough", "whereforeupon", "whereforeover", "whereforeth", "whereforethrough", "whereforeupon",
     "let", "know", "sir", "come", "well", "make", "take", "good", "well", "make", "take", "good", "well", "make", "take", "good", "well", "make", "take", "good",
     "them", "ourself", "yourself", "himself", "herself", "itself", "ourselves", "yourselves", "themselves", "such", "what", "such", "suchlike", "suchness", "wherefore", "wherein", "whereto", "wherewith", "wherewithal", "whence", "whereof", "wherewith", "wherewithal", "whereinto", "whereunto", "whereover", "wherethrough", "whereupon", "wherever", "wheresoever", "wherefor", "whereforward", "whereforeward", "whereforeover", "whereforeth", "whereforethrough", "whereforeupon", "whereforeover", "whereforeth", "whereforethrough", "whereforeupon",
